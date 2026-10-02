@@ -95,6 +95,9 @@ hình ảnh, âm thanh, video hoặc các tác vụ phân loại cảm xúc khá
 ├── svm_toxicity_model.pkl
 ├── tfidf_vectorizer.pkl
 └── tokenizer.pkl
+```
+
+
 
 ## 9. Cách chạy
 
